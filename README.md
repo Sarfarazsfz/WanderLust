@@ -55,15 +55,19 @@ This project demonstrates strong backend fundamentals, authentication, authoriza
 
 ## 📸 Screenshots
 
-> Add screenshots of your project UI below (home page, listing page, review section, login/signup, etc.)
 
 ```
 /screenshots
- ├── home.png
- ├── listing.png
- ├── add-listing.png
- ├── reviews.png
- └── login.png
+ ├── <img width="1919" height="1022" alt="Screenshot 2026-01-18 224044" src="https://github.com/user-attachments/assets/3e9ccc4a-48d8-4053-9cb6-efac075cd3c7" />
+
+ ├── ![Uploading Screenshot 2026-01-18 224424.png…]()
+
+ ├── <img width="1919" height="1017" alt="Screenshot 2026-01-18 224137" src="https://github.com/user-attachments/assets/c8bdaaa7-ebef-4a21-82e4-9c0b9574fd7c" />
+
+ ├── ![Uploading Screenshot 2026-01-18 224504.png…]()
+
+ └── ![Uploading Screenshot 2026-01-18 224536.png…]()
+
 ```
 
 ---
