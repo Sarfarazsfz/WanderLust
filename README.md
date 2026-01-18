@@ -1,6 +1,6 @@
-# 🌍 WanderLust — Full-Stack Travel Listing Web Application
+# 🌍 WanderLust — Full‑Stack Travel Listing Web Application
 
-WanderLust is a full-stack **travel and accommodation listing platform** inspired by modern rental and travel websites. The application allows users to **explore destinations, create listings, write reviews, and manage content securely**. It is built using **Node.js, Express, MongoDB**, and **EJS**, following the MVC architecture.
+WanderLust is a full‑stack **travel and accommodation listing platform** inspired by modern rental and travel websites. The application allows users to **explore destinations, create listings, write reviews, and manage content securely**. It is built using **Node.js, Express, MongoDB**, and **EJS**, following the MVC architecture.
 
 This project demonstrates strong backend fundamentals, authentication, authorization, and CRUD operations, making it ideal for **internship applications and academic projects**.
 
@@ -17,17 +17,17 @@ This project demonstrates strong backend fundamentals, authentication, authoriza
 * 🔐 User authentication & authorization (Login / Signup)
 * 🏠 Create, edit, and delete travel listings
 * 📝 Add and manage reviews for listings
-* 👤 User-specific content control (only owners can edit/delete)
+* 👤 User‑specific content control (only owners can edit/delete)
 * 📸 Image upload support with cloud configuration
 * 🛡️ Secure routes using middleware
 * 📦 MVC architecture for clean code structure
-* 🌐 Server-side rendered views using EJS
+* 🌐 Server‑side rendered views using EJS
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend (Server-Side Rendering)
+### Frontend (Server‑Side Rendering)
 
 * EJS (Embedded JavaScript Templates)
 * HTML5
@@ -40,8 +40,8 @@ This project demonstrates strong backend fundamentals, authentication, authoriza
 * Express.js
 * MongoDB & Mongoose
 * Passport.js (Authentication)
-* Express-Session
-* Method-Override
+* Express‑Session
+* Method‑Override
 
 ### Database
 
@@ -55,20 +55,15 @@ This project demonstrates strong backend fundamentals, authentication, authoriza
 
 ## 📸 Screenshots
 
-
 ```
 /screenshots
- ├── <img width="1919" height="1022" alt="Screenshot 2026-01-18 224044" src="https://github.com/user-attachments/assets/3e9ccc4a-48d8-4053-9cb6-efac075cd3c7" />
-
- ├── ![Uploading Screenshot 2026-01-18 224424.png…]()
-
- ├── <img width="1919" height="1017" alt="Screenshot 2026-01-18 224137" src="https://github.com/user-attachments/assets/c8bdaaa7-ebef-4a21-82e4-9c0b9574fd7c" />
-
- ├── ![Uploading Screenshot 2026-01-18 224504.png…]()
-
- └── ![Uploading Screenshot 2026-01-18 224536.png…]()
-
+ ├── home.png
+ ├── listing.png
+ ├── add-listing.png
+ ├── reviews.png
+ └── login.png
 ```
+
 
 ---
 
@@ -149,15 +144,15 @@ http://localhost:3000
 * Authorization checks for protected actions
 * Secure session management
 * Data validation using schemas
-* Middleware-protected routes
+* Middleware‑protected routes
 
 ---
 
 ## 🎯 Use Cases
 
 * Travel & accommodation listing platform
-* CRUD-based full-stack project demo
-* Backend-focused internship project
+* CRUD‑based full‑stack project demo
+* Backend‑focused internship project
 * Academic / college submission
 
 ---
@@ -172,6 +167,6 @@ http://localhost:3000
 
 ## ❤️ Acknowledgements
 
-Inspired by modern travel platforms and built to strengthen **full-stack web development fundamentals**.
+Inspired by modern travel platforms and built to strengthen **full‑stack web development fundamentals**.
 
 > *WanderLust — Explore destinations, share experiences, and travel smarter.* 🌍
