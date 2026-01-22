@@ -25,6 +25,25 @@ This project demonstrates strong backend fundamentals, authentication, authoriza
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Listing Details
+![Listing Page](screenshots/listing.png)
+
+### Add New Listing
+![Add Listing](screenshots/add-listing.png)
+
+### Reviews Section
+![Reviews](screenshots/reviews.png)
+
+### Login Page
+![Login](screenshots/login.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend (Server-Side Rendering)
@@ -49,19 +68,6 @@ This project demonstrates strong backend fundamentals, authentication, authoriza
 
 ---
 
-## 📸 Screenshots
-
-```
-/screenshots
- ├── home.png
- ├── listing.png
- ├── add-listing.png
- ├── reviews.png
- └── login.png
-```
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -74,6 +80,12 @@ wanderlust/
 ├── routes/               # Express route definitions
 ├── utils/                # Utility functions and helpers
 ├── views/                # EJS templates
+├── screenshots/          # Application screenshots
+│   ├── home.png
+│   ├── listing.png
+│   ├── add-listing.png
+│   ├── reviews.png
+│   └── login.png
 │
 ├── app.js                # Main application entry point
 ├── cloudConfig.js        # Cloudinary configuration
@@ -202,7 +214,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Developer:** MD SARFARAZ ALAM
 
-- **Email:** mdsarfarazalam669@gmail.com
 - **GitHub:** https://github.com/Sarfarazsfz
 - **LinkedIn:** https://www.linkedin.com/in/faraz4237/
 
