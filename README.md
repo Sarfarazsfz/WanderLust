@@ -37,7 +37,7 @@ This project demonstrates strong backend fundamentals, authentication, authoriza
 ![Add Listing](screenshots/add-listing.png)
 
 ### Reviews Section
-![Reviews](screenshots/reviews.png)
+![Reviews](screenshots/review.png)
 
 ### Login Page
 ![Login](screenshots/login.png)
